@@ -6,3 +6,9 @@
  3. yolo图片训练
  4. 返回best.pt
  5. python视觉识别，（目前有点卡）
+    a. image → segmentation（YOLO）
+        → distance transform
+        → DP centerline
+        → EMA
+
+
